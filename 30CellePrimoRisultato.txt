@@ -1,0 +1,62 @@
+Numero di celle: 30
+Numero di users: 3
+Numero di intervalli: 1
+saltato l'intestazione...
+letti i costi...
+letti tasks per cell...
+lette posizioni users per intervallo...
+Costruisco bstrees...
+Used nodes 675
+user cost: 1.400000
+user cost: 4.260000
+user cost: 5.880000
+user cost: 4.650000
+user cost: 1.730000
+user cost: 5.520000
+user cost: 10.660000
+user cost: 28.340000
+user cost: 12.070000
+user cost: 30.139999
+user cost: 10.020000
+user cost: 13.630000
+user cost: 12.250000
+user cost: 13.710000
+user cost: 26.750000
+user cost: 17.020000
+user cost: 25.389999
+user cost: 15.190000
+user cost: 33.320000
+user cost: 7.670000
+user cost: 30.840000
+user cost: 26.440001
+user cost: 30.330000
+user cost: 17.330000
+user cost: 15.890000
+user cost: 17.350000
+user cost: 23.889999
+user cost: 19.580000
+user cost: 30.639999
+user cost: 42.500000
+user cost: 6.590000
+user cost: 15.180000
+user cost: 15.190000
+user cost: 26.920000
+user cost: 24.209999
+user cost: 25.840000
+user cost: 24.660000
+user cost: 46.240002
+user cost: 33.570000
+user cost: 36.490002
+user cost: 21.080000
+user cost: 42.500000
+user cost: 31.799999
+user cost: 33.660000
+user cost: 25.799999
+user cost: 27.340000
+user cost: 65.180000
+user cost: 30.830000
+
+
+OBJECT FUNCTION: 8431.524414
+
+Hello motherfucker! Time is: 0.000230.

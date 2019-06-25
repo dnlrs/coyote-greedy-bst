@@ -1,0 +1,7 @@
+
+# ignore executable
+main
+out
+
+# ignore debug logs
+debug.txt
